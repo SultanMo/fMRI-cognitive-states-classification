@@ -2,7 +2,8 @@
 Implementation of the Voxel Weight-based feature generation method.
 
 ## Dataset
-The dataset used to generate the VW features is from the StarPlus experiment: http://www.cs.cmu.edu/afs/cs.cmu.edu/project/theo-81/www. It is comprised of fMRI data for six human subjects.
+The dataset used to generate the VW features is from the StarPlus experiment: http://www.cs.cmu.edu/afs/cs.cmu.edu/project/theo-81/www.
+It is comprised of fMRI data for six human subjects.
 
 ## Scripts
 #### Quick Run
