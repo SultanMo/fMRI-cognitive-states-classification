@@ -1,4 +1,4 @@
-# COGNITIVE STATE PREDICTION VIA TWO-DIMENSIONAL FEATURE VECTOR
+# Cognitive State Prediction via A Two-Dimensional Feature Vector
 Implementation of the Voxel Weight-based feature generation method.
 
 ## Dataset
